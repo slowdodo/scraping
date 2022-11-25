@@ -1,0 +1,120 @@
+제목: Wiki 랜섬웨어 국내 유포 포착... 정상 프로그램으로 위장 
+내용: 2015년 상반기부터 유포됐던 Crysis 랜섬웨어 변종으로 확인되는 Wiki 랜섬웨어가 정상 프로그램으로 위장해 유포되는 것이 확인돼 사용자들의 주의가 각별한 ...
+기자: 김영명  
+시간: 2022년 11월 19일 12:42
+링크:http://www.boannews.com//media/view.asp?idx=111731&page=1&kind=1&search=title&find=
+
+제목: [주말판] 머스크의 트위터 직원 대량 해고, IT 업계는 어떤 미래가 기다리고 있나
+내용: 트위터의 대규모 인력 감소로 인해 새로운 기술 기업이 탄생할지도 모른다는 이야기가 나오기 시작했다. 약 20년 전 페이팔(PayPal)의 엑소더스가 생각났기 때문...
+기자: 문가용  
+시간: 2022년 11월 19일 12:44
+링크:http://www.boannews.com//media/view.asp?idx=111731&page=1&kind=1&search=title&find=
+
+제목: 올해 보안분야 최고 명강연자는? ISEC 2022 ‘Best Speaker Award’ 개최
+내용: 지난 10월 18~19일 서울 코엑스에서 개최된 아시아 최대 규모의 국제 시큐리티 콘퍼런스 ‘ISEC 2022’에서 최고의 명강연을 펼친 강연자를 시상하는 ‘IS...
+기자: 원병철  
+시간: 2022년 11월 21일 18:36
+링크:http://www.boannews.com//media/view.asp?idx=111731&page=1&kind=1&search=title&find=
+
+제목: 비밀번호가 사라진 시대를 준비하기
+내용: 현대 사회에서의 삶을 영위하는 데 있어 비밀번호가 차지하는 비중은 결코 낮다고 할 수 없다. 네트워크, 장비, 계정 등 수많은 필수 요소들을 1차적으로 보호하는 ...
+기자: 문가용  
+시간: 2022년 11월 21일 00:30
+링크:http://www.boannews.com//media/view.asp?idx=111731&page=1&kind=1&search=title&find=
+
+제목: 카카오 사태 잊었나? 케이뱅크·우체국·IBK기업은행 줄줄이 시스템 장애 
+내용: 지난 17일부터 19일까지 3일간 케이뱅크, 우체국, IBK기업은행에서 줄줄이 전산장애가 발생했다. 더욱이 주말 기간에 금융기관에서 집중적으로 발생한 만큼 금융권...
+기자: 김경애  
+시간: 2022년 11월 21일 17:37
+링크:http://www.boannews.com//media/view.asp?idx=111731&page=1&kind=1&search=title&find=
+
+제목: 2022 보안장비 협력회의 개최... 충남 서천군에 보안산업 클러스터 조성  
+내용: 국내 보안검색장비 제도, 산업 현황을 논의하고 국내 보안검색장비 개발업체를 대상으로 국내 보안산업 클러스터 조성에 필요한 각종 지원대책을 협의한 ‘2022 보안장...
+기자: 권준   
+시간: 2022년 11월 23일 17:56
+링크:http://www.boannews.com//media/view.asp?idx=111731&page=1&kind=1&search=title&find=
+
+제목: 협박 전문 단체 루나모스, 멀웨어는 하나도 사용 않고 통화로 협박하고
+내용: 지난 수개월 동안 수십만 달러의 피해를 일으킨 사이버 공격 단체의 꼬리가 잡혔다. 흥미롭게도 이 공격 단체는 중소기업들만 집중적으로 노렸다고 하며, 멀웨어를 일체...
+기자: 문가용  
+시간: 2022년 11월 22일 12:29
+링크:http://www.boannews.com//media/view.asp?idx=111731&page=1&kind=1&search=title&find=
+
+제목: 새로운 랜섬웨어 액스락커, 디스코드 계정 노려
+내용: IT 외신 블리핑컴퓨터에 의하면 최근 새로운 랜섬웨어가 등장했다고 한다. 이름은 액스락커(AXLocker)로, 기본적인 랜섬웨어 기능을 가진 것에 더해 피해자의 ...
+기자: 문가용  
+시간: 2022년 11월 21일 11:48
+링크:http://www.boannews.com//media/view.asp?idx=111731&page=1&kind=1&search=title&find=
+
+제목: [긴급] 이력서 사칭한 ‘LockBit 3.0’ 랜섬웨어, 국내 유포중
+내용: 최근 피싱 메일을 통해 LockBit 랜섬웨어와 정보탈취 악성코드가 함께 유포되고 있어 사용자들의 각별한 주의가 필요하다. 특히, 이력서로 위장한 메일로 기업 사...
+기자: 원병철  
+시간: 2022년 11월 21일 00:23
+링크:http://www.boannews.com//media/view.asp?idx=111731&page=1&kind=1&search=title&find=
+
+제목: 신속확인제, 보안산업 발전의 ‘혁신’ 불러올 ‘Key’ 될까
+내용: 급변하는 기술의 발전과 빠르게 증가하고 있는 보안위협에 대응하기 위해 과학기술정보통신부(이하 과기정통부)는 신속확인제 도입을 추진하고 있다. 11월 시행을 앞두고...
+기자: 원병철  
+시간: 2022년 11월 22일 16:52
+링크:http://www.boannews.com//media/view.asp?idx=111731&page=1&kind=1&search=title&find=
+
+제목: 구글 플레이로 복귀 성공한 샤크봇 뱅킹 트로이목마
+내용: 보안 외신 핵리드(HackRead)에 의하면 샤크봇(SharkBot)이라는 악명 높은 뱅킹 멀웨어가 다시 구글 플레이 스토어에 등록됐다고 한다. 보안 업체 비트디...
+기자: 문가용  
+시간: 2022년 11월 23일 11:18
+링크:http://www.boannews.com//media/view.asp?idx=111731&page=1&kind=1&search=title&find=
+
+제목: 글로벌 해킹그룹 공격 동향 살펴보니... ‘사이버보안 대연합’ 2차 보고서 발표 
+내용: 사이버보안 대연합은 탐지공유, 정책제도, 대응역량 등 총 3개분과로 나누어 운영 중이며, 지난 9월 1차 보고서 발표에 이어 최근 2차 보고서를 발표했다. 이번 ...
+기자: 김영명  
+시간: 2022년 11월 21일 00:11
+링크:http://www.boannews.com//media/view.asp?idx=111731&page=1&kind=1&search=title&find=
+
+제목: 월드컵 열리는 중동에서는 이미 피싱 공격이 2배 증가
+내용: IT 외신 레지스터에 의하면 지난 달 중동 지역에서 월드컵을 테마로 한 피싱 공격이 100% 이상 증가했다고 한다. 9월과 10월 사이 악성 이메일이 2배 이상 ...
+기자: 문가용  
+시간: 2022년 11월 23일 11:20
+링크:http://www.boannews.com//media/view.asp?idx=111731&page=1&kind=1&search=title&find=
+
+제목: ‘2022 정보보호산업인의 밤’ 개최... 정보보호 전략산업화 나선다
+내용:  ‘2022 정보보호산업인의 밤’이 ‘정보보호의 전략산업화, 안전한 미래를 위한 준비’라는 부제를 달고 24일 오후 서울 켄싱턴호텔 여의도에서 개최됐다. 과학기술...
+기자: 김영명  
+시간: 2022년 11월 24일 21:50
+링크:http://www.boannews.com//media/view.asp?idx=111731&page=1&kind=1&search=title&find=
+
+제목: 페이스북 애즈와 비즈니스 플랫폼 노리는 사이버 범죄 그룹, 덕테일
+내용: 페이스북 애즈(Facebook Ads)와 페이스북 비즈니스(Facebook Business) 플랫폼을 사용하는 개인과 기업들을 전문적으로 노리는 사이버 공격 단체...
+기자: 문가용  
+시간: 2022년 11월 23일 15:37
+링크:http://www.boannews.com//media/view.asp?idx=111731&page=1&kind=1&search=title&find=
+
+제목: CCTV나 얼굴인식 도어락 등 디지털 기기 개인정보보호 인증제 추진
+내용: CCTV나 얼굴인식 도어락 등 디지털 기기의 개인정보 유출 우려가 커지면서 개인정보보호위원회가 디지털 기기 개인정보보호 인증제 도입을 추진한다. 개인정보보호위원회...
+기자: 원병철  
+시간: 2022년 11월 24일 14:25
+링크:http://www.boannews.com//media/view.asp?idx=111731&page=1&kind=1&search=title&find=
+
+제목: Weekly Security Premium Report 제77호 발간! 2022년 EDR 솔루션 심층 리포트 
+내용: 11월 24일 발간된 ‘Weekly Security Premium Report’ 제77호에는 <보안 심층 리포트> 코너에서 정보보호제품 성능평가 대상 ...
+기자: 권준   
+시간: 2022년 11월 24일 17:47
+링크:http://www.boannews.com//media/view.asp?idx=111731&page=1&kind=1&search=title&find=
+
+제목: 미군과 질병 관리 센터에서 불거진 푸시우시 사태, 태생지의 중요성을 지적하다
+내용: 이번 주 외신 로이터 통신에서 충격적인 보도가 나왔다. 푸시 알림 전문 업체 푸시우시(Pushwoosh)가 미국 기업인 것처럼 스스로를 소개하고 있지만 실제로는 ...
+기자: 문가용  
+시간: 2022년 11월 22일 22:42
+링크:http://www.boannews.com//media/view.asp?idx=111731&page=1&kind=1&search=title&find=
+
+제목: 프루프포인트 “이메일 보안, 가장 원초적·위협적인 사이버공격에 대응하는 것”
+내용: 글로벌 사이버보안 기업 프루프포인트 코리아(대표 이석호)가 23일 서울 소공동 롯데호텔에서 ‘BEC 공격(Business Email Compromise)’ 관련 ...
+기자: 김영명  
+시간: 2022년 11월 23일 13:21
+링크:http://www.boannews.com//media/view.asp?idx=111731&page=1&kind=1&search=title&find=
+
+제목: [보.알.남] RAID, 훼손 위협으로부터 데이터 안정성 확보하기 위한 분산 전략
+내용: RAID는 ‘Redundant Array of Inexpensive/Independent Disks’의 약어로 ‘복수의 디스크에 보존해 훼손으로부터 데이터 사용자...
+기자: 김영명  
+시간: 2022년 11월 21일 16:22
+링크:http://www.boannews.com//media/view.asp?idx=111731&page=1&kind=1&search=title&find=
+
